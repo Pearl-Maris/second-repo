@@ -1,0 +1,11 @@
+secrets/**
+
+*.pem
+
+*.pyc
+
+credential.*
+
+auth.*
+
+#To comment someting, use #.
